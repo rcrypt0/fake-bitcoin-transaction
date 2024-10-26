@@ -4,11 +4,17 @@ We present a demonstration of the latest version of the BITCOIN DEVIL software, 
 # Bitcoin fake transaction Features :
 
 -Support all types of btc address
+
 -Send up to 100 BTC in a single transaction
+
 -Support all wallet : CEX and DEX
+
 -Transaction confirmation: 6+
+
 -Transactions per day: Unlimited
+
 -Number of wallet-to-wallet transactions: Unlimited
+
 -Maximum duration of transaction on the blockchain: 998 days
 
 # Demo video in live
